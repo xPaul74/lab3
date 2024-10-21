@@ -1,0 +1,1 @@
+Produs{denumire='ciololata', pret=5.0, cantitate=200, dataExpirarii=2024-10-30}
